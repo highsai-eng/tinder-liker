@@ -19,8 +19,8 @@ public final class BrowserOperator {
     private static final String SYSTEM_PROPERTY_CHROME_DRIVER_KEY = "webdriver.chrome.driver";
     private static final String SYSTEM_PROPERTY_CHROME_DRIVER_VALUE = "./exe/chromedriver";
     private static final String TINDER_URL = "https://tinder.com/?lang=ja";
-    private static final String PHONE_NUMBER = "09097814709";
-    private static final String PASSWORD = "kaito2357";
+    private static final String PHONE_NUMBER = "090xxxxxxxx";
+    private static final String PASSWORD = "xxxxxxxxxxxxxxx";
 
     private final WebDriver driver;
     private final WebDriverWait wait;
